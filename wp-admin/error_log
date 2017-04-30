@@ -1,0 +1,1 @@
+[01-Feb-2017 18:31:07 UTC] PHP Warning:  getimagesize(/home/audiger/public_html/wp-content/uploads/revslider/objects/object_pen_1.png): failed to open stream: No such file or directory in /home/audiger/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
